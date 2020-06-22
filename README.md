@@ -1,3 +1,5 @@
+[Downloads](https://github.com/scambier/SIM-Notes/releases)
+
 # SIM Notes
 
 **SIM Notes** is a markdown note-taking app with live-rendering.
